@@ -1,4 +1,4 @@
-# Gaussian-Process-Regression-for-Computer-Model-Emulation
+# Gaussian Process Regression for Computer Model Emulation
 Jaeik Jeon
 ## Abstract
 
