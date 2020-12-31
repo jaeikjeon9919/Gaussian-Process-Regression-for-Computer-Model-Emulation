@@ -1,5 +1,5 @@
 # Gaussian-Process-Regression-for-Computer-Model-Emulation
-
+Jaeik Jeon
 ## Abstract
 
 We consider a full Bayesian approach for the estimation of the parameters of a
