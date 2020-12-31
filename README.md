@@ -12,5 +12,5 @@ approach, and the method is applied to an emulator of Multiphase Flow with Inter
 fluidized bed.
 
 ## Link 
-<a href="https://github.com/jaeikjeon9919/Gaussian-Process-Regression-for-Computer-Model-Emulation/raw/main/Gaussian%20Process%20Regression%20for%20Computer%20Model%20Emulation%20(SIAM).pdf" download="Gaussian_Process_Regression_for_Computer_Model_Emulation(SIAM).pdf">Submitted_to_SIAM</a>,
+<a href="https://github.com/jaeikjeon9919/Gaussian-Process-Regression-for-Computer-Model-Emulation/raw/main/Gaussian%20Process%20Regression%20for%20Computer%20Model%20Emulation%20(SIAM).pdf" download="Gaussian_Process_Regression_for_Computer_Model_Emulation(SIAM).pdf">Submitted_to_SIAM</a>
 
